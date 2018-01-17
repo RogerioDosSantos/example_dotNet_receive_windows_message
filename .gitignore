@@ -1,0 +1,6 @@
+**/stage
+<!-- **/build/** -->
+<!-- !**/build/*.sh -->
+<!-- !**/build/*.make -->
+<!-- !**/build/visual_studio -->
+**/build/visual_studio/.vs/**

@@ -3,7 +3,7 @@
 
 # Introduction
 
-This example shows how to *Post (Asynchronous)* or *Send (Synchronous)* a *Windows Message* to a *.Net* application.
+This example shows how to *Post (Asynchronous)* or *Send (Synchronous)* *Windows Message* to a *.Net* application.
 
 ## How to execute
 
